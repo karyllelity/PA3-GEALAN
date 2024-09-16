@@ -37,5 +37,5 @@ Gealan, Karylle Marjorie O. https://www.facebook.com/karmageee
 
 1.2 Edited the ReadMe file.
 1.1 
-    - Uploaded the Gealan_Pandas-P1.ipynb, Gealan_Pandas-P2.ipynb, and cars.csv
-    - Creates ReadMe file.
+    -    Uploaded the Gealan_Pandas-P1.ipynb, Gealan_Pandas-P2.ipynb, and cars.csv
+    -    Creates ReadMe file.
