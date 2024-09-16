@@ -7,10 +7,11 @@ The purpose of this task is to load datasets and apply skills in manipulating sp
 1. Using knowledge obtained from the experiment and demonstrations:
    (a) Load the corresponding .csv file into a data frame named cars using pandas.
    (b) rame cars in problem 1, extract the following information using subsetting, slicing, and indexing operations.
-   Display the first five rows with odd numbered columns of cars
-   Display the row that contains the ‘Model’ of ‘Mazda RX4’
-   How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
-   Determine how maby cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
+2. Using the dataframe cars in problem 1, extract the following information using subsetting, slicing, and indexing operations.
+   (a) Display the first five rows with odd numbered columns of cars
+   (b) Display the row that contains the ‘Model’ of ‘Mazda RX4’
+   (c) How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
+   (d) Determine how maby cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
 ## Getting Started
 
